@@ -49,8 +49,11 @@ class MyApp extends StatelessWidget {
   // so here we can see that using curly braces can make it optional, without curly braces, it will be required by the function to send the value
   // required doesn't need to add any value, it will be required by the calling function to sen the value.
   }
-
 }
+
+
+
+
 
 // login_page.dart
 import 'package:flutter/material.dart';
@@ -76,6 +79,9 @@ class LoginPage extends StatelessWidget {
     );
   }
 }
+
+
+
 
 
 // home_page.dart
