@@ -16,3 +16,11 @@ Master Flutter in Just 8 Hours | Full Course Hindi @HindiCodepur
 8. Box decoration
 
 ## Chapter 7
+1. Inkwell => responds to touch in an application
+2. Condition based on button pressing
+3. Form
+4. Global Key
+5. Form State
+6. Statefull
+
+## Chapter 8
